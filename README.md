@@ -1,4 +1,10 @@
-## سموعليكوا 👋
+<!-- طريقة بسيطة في README.md -->
+<p align="center">
+
+  <br/>
+  <strong>🫡 سموعليكوا</strong>
+  <br/>
+</p>
 
 <!--
 **fvdykerolous-maker/fvdykerolous-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
