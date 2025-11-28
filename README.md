@@ -2,7 +2,7 @@
 <p align="center">
 
   <br/>
-  <strong>🫡 سموعليكوا</strong>
+  <strong> سموعليكوا 🫡</strong>
   <br/>
 </p>
 
